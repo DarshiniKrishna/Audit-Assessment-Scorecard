@@ -13,3 +13,5 @@ This scorecard evaluates the completeness and sufficiency of audit reports by ch
 ## Snippet
 
 ![Example Image](https://github.com/DarshiniKrishna/Audit-Assessment-Scorecard/blob/7306578ddb119c2a1c10a8db187d8ccaa651c6d2/Post-Assesssment%20Scorecard_elements.png)
+
+![Example Image](https://github.com/DarshiniKrishna/Audit-Assessment-Scorecard/blob/3a1368e5da18b6a90fe8f4ce7e36edfcbef55bea/Post-Assesssment%20Scorecard.png)
